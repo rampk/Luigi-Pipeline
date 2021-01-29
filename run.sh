@@ -1,0 +1,1 @@
+python pipeline.py ScoreTask --local-scheduler --tweet-file Data/Raw/airline_tweets.csv
